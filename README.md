@@ -7,4 +7,4 @@ En este repositorio se publican las notas del curso de astrodinámica, en la for
 Cuadernos disponibles:
 
 - **Clase 0. Introducción**. 
-  <a target="_blank" href="https://colab.research.google.com/github/seap-udea/pymcel/blob/main/ejemplos/cuadernos-libro/mcel_zuluaga-01-introduccion.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  <a target="_blank" href="https://colab.research.google.com/github/seap-udea/notas-astrodyn/blob/main/Clase-00-astrodyn-introduccion.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
